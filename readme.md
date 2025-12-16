@@ -1,0 +1,1 @@
+python文件和m文件直接运行即可，需要的库是numpy与matplot。
